@@ -20,9 +20,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-007ACC?style=flat-square&logo=node.js&logoColor=white)
 ![Bootstrap3](https://img.shields.io/badge/-Bootstrap3-%232c3e50?style=flat-square&logo=bootstrap)
 
-![Flutter](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
-![Kotlin](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Dart](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
+![Flutter](https://img.shields.io/badge/-Flutter-%231d365d?style=flat-square&logo=flutter&logoColor=ffffff)
+![Dart](https://img.shields.io/badge/-Dart-%23CC6699?style=flat-square&logo=dart&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-%23333333?style=flat-square&logo=kotlin)
 
 ![Codeigniter](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
