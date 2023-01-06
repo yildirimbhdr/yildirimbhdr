@@ -1,7 +1,7 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Bahadır Yıldırım
 
 [![](https://img.shields.io/badge/-@yildirimbhdr-%23181717?style=flat-square&logo=github)](https://github.com/yildirimbhdr)
-[![](https://img.shields.io/badge/-@bahadıryıldırım-%23000000?style=flat-square&logo=codepen)](https://www.linkedin.com/in/bahadır-yıldırım-7369081b4/)
+[![](https://img.shields.io/badge/-@bahadıryıldırım-%23000000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bahadır-yıldırım-7369081b4/)
 
 𝑰 ❤️ Full-stack 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
