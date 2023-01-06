@@ -1,9 +1,7 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Bahadır Yıldırım
 
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/yildirimbhdr)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codepen)](https://www.linkedin.com/in/bahadır-yıldırım-7369081b4/)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/xiaoluoboding)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
+[![](https://img.shields.io/badge/-@yildirimbhdr-%23181717?style=flat-square&logo=github)](https://github.com/yildirimbhdr)
+[![](https://img.shields.io/badge/-@bahadıryıldırım-%23000000?style=flat-square&logo=codepen)](https://www.linkedin.com/in/bahadır-yıldırım-7369081b4/)
 
 𝑰 ❤️ Full-stack 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
